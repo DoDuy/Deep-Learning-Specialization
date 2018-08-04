@@ -74,7 +74,7 @@ Foundations of Deep Learning:
 ### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%202/Quiz.pdf)
-* [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%203/Quiz.pdf
+* [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%203/Quiz.pdf)
 * [Week4](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%204/Quiz.pdf)
 
 ### Assignments:
