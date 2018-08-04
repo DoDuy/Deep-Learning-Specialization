@@ -4,13 +4,13 @@ This is the repository for my implementations on the Deep Learning Specializatio
 
 Taught by [Andrew Ng](http://www.andrewng.org/)
 
-### [Courses on Coursera](https://www.coursera.org/specializations/deep-learning)
+#### [Courses on Coursera](https://www.coursera.org/specializations/deep-learning)
 
-### [All Videos](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+#### [All Videos](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 
 Done and pass 100% all Quiz and Programming Assignments
 
-### [Syllabus](https://www.coursera.org/specializations/deep-learning)
+#### [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
 ## Course 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) 
 Foundations of Deep Learning:
@@ -19,7 +19,7 @@ Foundations of Deep Learning:
 * Know how to implement efficient (vectorized) neural networks 
 * Understand the key parameters in a neural network's architecture 
 
-### [Videos](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+#### [Videos](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 
 ### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/Quiz.pdf)
