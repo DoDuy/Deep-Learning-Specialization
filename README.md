@@ -21,13 +21,13 @@ Foundations of Deep Learning:
 
 #### [Videos](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 
-### Quizzes:
+#### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Quiz.pdf)
 * [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Quiz.pdf)
 * [Week4](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Quiz.pdf)
 
-### Assignments:
+#### Assignments:
 * Week2: [Neural Network Basics](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202)
 * Week3: [Shallow Neural Network Implementation](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203)
 * Week4: [Deep Neural Network Implementation](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204)
@@ -39,14 +39,14 @@ Foundations of Deep Learning:
 * Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
 * Be able to implement a neural network in TensorFlow. 
 
-### [Videos](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+#### [Videos](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-### Quizzes:
+#### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202/Quiz.pdf)
 * [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203/Quiz.pdf)
 
-### Assignments:
+#### Assignments:
 * Week1: [Initialization, Regularization & Gradient Check](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%201)
 * Week2: [Optimization Algorithms](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%202)
 * Week3: [Hyperparameter tuning, Batch Normalization & Tensorflow Implementation](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week%203)
@@ -57,9 +57,9 @@ Foundations of Deep Learning:
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
-### [Videos](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
+#### [Videos](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-### Quizzes:
+#### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/week%202/Quiz.pdf)
 
@@ -69,15 +69,15 @@ Foundations of Deep Learning:
 * Know to use neural style transfer to generate art.
 * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
-### [Videos](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+#### [Videos](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
-### Quizzes:
+#### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%202/Quiz.pdf)
 * [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%203/Quiz.pdf)
 * [Week4](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%204/Quiz.pdf)
 
-### Assignments:
+#### Assignments:
 * Week1: [Convolutional Neural Network Implementation in Numpy](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week%201)
 * Week2: 
   * [Keras CNN Implementation](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Convolutional%20Neural%20Networks/Week%202/KerasTutorial)
@@ -99,14 +99,14 @@ Foundations of Deep Learning:
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
 
-### [Videos](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
+#### [Videos](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
-### Quizzes:
+#### Quizzes:
 * [Week1](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Sequence%20Models/Week%201/Quiz.pdf)
 * [Week2](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Sequence%20Models/Week%202/Quiz.pdf)
 * [Week3](https://github.com/DoDuy/Deep-Learning-Specialization/blob/master/Sequence%20Models/Week%203/Quiz.pdf)
 
-### Assignments:
+#### Assignments:
 * Week1: 
   * [RNN & LSTM Implementation in Numpy (Including backpropagation)](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Sequence%20Models/Week%201/Building%20a%20RNN)
   * [Character-Level Language Modeling](https://github.com/DoDuy/Deep-Learning-Specialization/tree/master/Sequence%20Models/Week%201/Character%20level%20language%20model)
